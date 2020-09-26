@@ -13,26 +13,41 @@ td{
 	height: 40px;	
 }
 
+.titulo{
+	text-align: center;
+	font: bold;
+}
+
 td.lya{
 	background-color: cyan;
 }
 
 td.ppc{
-	background-color: lime;
+	background-color: #FFB57B;
 }
 
 td.ti{
-	background-color: lightgray;
+	background-color: #ADFF96;
 }
 
 td.pw{
-	background-color: lightblue;
+	background-color: #A1B0FE;
 }
 
 td.sp{
-	background-color: yellow;
+	background-color: #CCE674;
 }
 
 td.cye{
-	background-color: #ED33FF;
+	background-color: #EF6CFB;
+}
+
+tr.receso{
+	background-color: #56070C;
+	color: white;
+	font-weight: bold;
+}
+
+th.thh{
+	width: 100px;
 }
