@@ -1,13 +1,38 @@
 table, th, td{
-	border-collapse: collapse;
+	
 	border: 2px solid black;
+	border-collapse: collapse;
 }
 
 table{
-	width: 90%;
+	width: 100%;
 }
 
 td{
 	text-align: center;
 	height: 40px;	
+}
+
+td.lya{
+	background-color: cyan;
+}
+
+td.ppc{
+	background-color: lime;
+}
+
+td.ti{
+	background-color: lightgray;
+}
+
+td.pw{
+	background-color: lightblue;
+}
+
+td.sp{
+	background-color: yellow;
+}
+
+td.cye{
+	background-color: #ED33FF;
 }
